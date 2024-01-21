@@ -15,6 +15,9 @@
 
 <p align="center" width="150px"> I am a Computer Science student (specialization in <b><a href="https://www.cs.queensu.ca/undergraduate/programs/options/data-analytics.php">Data Analytics </a></b>) at <a href="https://www.queensu.ca/"><b>Queen's University</b></a>.<br> I am someone who loves relating code to real life applications and analyzing some numbers in the process. My passions include playing sports, creating content and teaching others. Future plan's include working on a personal portfolio website. Stay Tuned!  </p>
 
+<p align="center"><b>Visitor's Count</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/Shravan-9/count.svg" alt="visitor badge"/></p>
+
 
 ### 🛠 &nbsp;Tech Stack
 
