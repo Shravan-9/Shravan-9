@@ -39,7 +39,7 @@
   <a href="mailto:shrav.agnihotri@gmail.com"><img src="https://img.shields.io/badge/-shrav.agnihotri@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br></p>
+<p align="center"><img src="https://github.com/Shravan-9/Shravan-9/blob/main/giphy.gif" /><br></p>
 
 ---
 Credit: [KevinPatel04](https://github.com/KevinPatel04)
